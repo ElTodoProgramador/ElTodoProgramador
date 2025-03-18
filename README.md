@@ -17,7 +17,7 @@ Soy ingeniero de sistemas y me dedico al pentesting. Me apasiona la programació
 
 ## 📫 Contacto
 - Correo: jbautistah20_1@unc.edu.pe
-- LinkedIn: [TuPerfilLinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/juan-roimer-bautista-huingo-007242303/))
+- LinkedIn: [Juan Roimer Bautista Huingo](https://www.linkedin.com/in/juan-roimer-bautista-huingo-007242303/)
 
 ¡Gracias por visitar mi perfil! 🚀
 
