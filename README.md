@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Juan Roimer
 
-<!--
-**ElTodoProgramador/ElTodoProgramador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy ingeniero de sistemas y me dedico al pentesting. Me apasiona la programación, el análisis de datos y el desarrollo de soluciones tecnológicas. Disfruto explorar nuevos lenguajes y herramientas, así como investigar sobre tendencias emergentes en ciberseguridad.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologías y Herramientas
+- Lenguajes: Python, JavaScript, PHP, HTML/CSS, C#
+- Herramientas de Pentesting: Burp Suite, Metasploit, Nmap, Wireshark
+- Análisis de Datos: Pandas, NumPy, Matplotlib, Scikit-learn
+- Desarrollo Web: Razor Pages, Bootstrap, Node.js
+- Control de Versiones: Git y GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Intereses
+- Ciberseguridad y hacking ético
+- Análisis de datos y machine learning
+- Desarrollo web y diseño de interfaces
+- Automatización y scripting
+
+## 📫 Contacto
+- Correo: jbautistah20_1@unc.edu.pe
+- LinkedIn: [TuPerfilLinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/juan-roimer-bautista-huingo-007242303/))
+
+¡Gracias por visitar mi perfil! 🚀
+
